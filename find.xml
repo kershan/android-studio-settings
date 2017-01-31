@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'supersport-v3-android'" />
-    <option name="defaultScopeName" value="Project 'supersport-v3-android'" />
-    <option name="SEARCH_SCOPE" value="Project 'supersport-v3-android'" />
+    <option name="customScope" value="File 'C:\Users\kersh\Work\Source Code\Android\supersport-v3-android\app\src\main\java\com\supersport\android\phone\activity\GolfPhoneResultDetailActivity.java'" />
+    <option name="defaultScopeName" value="File 'C:\Users\kersh\Work\Source Code\Android\supersport-v3-android\app\src\main\java\com\supersport\android\phone\activity\GolfPhoneResultDetailActivity.java'" />
+    <option name="SEARCH_SCOPE" value="File 'C:\Users\kersh\Work\Source Code\Android\supersport-v3-android\app\src\main\java\com\supersport\android\phone\activity\GolfPhoneResultDetailActivity.java'" />
   </component>
 </application>
