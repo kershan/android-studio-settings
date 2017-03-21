@@ -1,7 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'supersport-v3-android'" />
-    <option name="defaultScopeName" value="Project 'supersport-v3-android'" />
-    <option name="SEARCH_SCOPE" value="Project 'supersport-v3-android'" />
+    <option name="caseSensitive" value="true" />
+    <option name="customScope" value="Directory 'C:\Users\kersh\Work\Source Code\Android\supersport-v3-android\app\src\main\java\com\supersport\android\phone\pojo\ss4\tennis\tournament'" />
+    <option name="defaultScopeName" value="Directory 'C:\Users\kersh\Work\Source Code\Android\supersport-v3-android\app\src\main\java\com\supersport\android\phone\pojo\ss4\tennis\tournament'" />
+    <option name="CASE_SENSITIVE_SEARCH" value="true" />
+    <option name="SEARCH_SCOPE" value="Directory 'C:\Users\kersh\Work\Source Code\Android\supersport-v3-android\app\src\main\java\com\supersport\android\phone\pojo\ss4\tennis\tournament'" />
   </component>
 </application>
