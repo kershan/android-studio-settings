@@ -1,9 +1,9 @@
 <application>
   <component name="FindSettings">
     <option name="caseSensitive" value="true" />
-    <option name="customScope" value="Project 'supersport-v3-android'" />
-    <option name="defaultScopeName" value="Project 'supersport-v3-android'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\supersport\android\phone\adapters\logs\FootballRugbyAdapter.java'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\supersport\android\phone\adapters\logs\FootballRugbyAdapter.java'" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="SEARCH_SCOPE" value="Project 'supersport-v3-android'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\supersport\android\phone\adapters\logs\FootballRugbyAdapter.java'" />
   </component>
 </application>
