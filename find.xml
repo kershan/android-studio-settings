@@ -2,8 +2,6 @@
   <component name="FindSettings">
     <option name="customScope" value="File '[app] - ...\app\src\main\java\com\supersport\android\phone\adapters\logs\FootballRugbyAdapter.java'" />
     <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\supersport\android\phone\adapters\logs\FootballRugbyAdapter.java'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\supersport\android\phone\adapters\logs\FootballRugbyAdapter.java'" />
   </component>
 </application>
