@@ -1,9 +1,0 @@
-<application>
-  <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\res\layout\activity_tennis_detail.xml'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\res\layout\activity_tennis_detail.xml'" />
-    <option name="regularExpressions" value="true" />
-    <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\res\layout\activity_tennis_detail.xml'" />
-  </component>
-</application>
